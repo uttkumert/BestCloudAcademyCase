@@ -46,3 +46,9 @@ CMD [ "python3", "-m" , "flask", “run"]
 
 
 Bilgisayarımdaki Java sürümü yüksek olduğu için bu hatayı aldığımı anladım. Jenkins ile izlediğim tüm videolarda bağlantıyı localhost:8080 üzerinden yapıldığını gördüm fakat hiçbir browser üzerinden buraya ulaşamadığım için 3. görevi yerine getiremedim.
+
+Docker kurulumu için yararlandığım kaynaklar:
+
+https://docs.docker.com/language/python/run-containers/
+
+https://docs.docker.com/language/python/build-images/
