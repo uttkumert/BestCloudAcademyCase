@@ -45,4 +45,4 @@ CMD [ "python3", "-m" , "flask", “run"]
 <img width="1040" alt="SS8" src="https://user-images.githubusercontent.com/60819292/112382412-dd74d200-8cfc-11eb-83bf-b4e72bf50d64.png">
 
 
-Bilgisayarımdaki Java sürümü yüksek olduğu için bu hatayı aldığımı anladım. Jenkins ile izlediğim tüm videolarda bağlantıyı localhost:8080 üzerinden yapıldığını gördüm fakat hiçbir browser üzerinden buraya ulaşamadığım için 3. Görevi yerine getiremedim.
+Bilgisayarımdaki Java sürümü yüksek olduğu için bu hatayı aldığımı anladım. Jenkins ile izlediğim tüm videolarda bağlantıyı localhost:8080 üzerinden yapıldığını gördüm fakat hiçbir browser üzerinden buraya ulaşamadığım için 3. görevi yerine getiremedim.
